@@ -6,9 +6,13 @@ en:
   languageCode: en
   languageName: English
   permalinks:
+    categories: /actualites/:slug/
+    posts: /actualites/:year-:month-:day-:slug/
 fr:
   title: Bac à sable
   contentDir: content/fr
   languageCode: fr
   languageName: Français
   permalinks:
+    categories: /actualites/:slug/
+    posts: /actualites/:year-:month-:day-:slug/
