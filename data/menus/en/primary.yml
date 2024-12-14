@@ -5,15 +5,18 @@ items:
   target: "/en/actualites/"
   kind: page
   children: []
+  path: "/posts"
   file: content/en/posts/_index.html
 - title: Team
   target: "/en/team/"
   kind: page
   children: []
+  path: "/persons"
   file: content/en/persons/_index.html
 - title: Organizations
   target: "/en/organizations/"
   kind: page
   children: []
+  path: "/organizations"
   file: content/en/organizations/_index.html
 
