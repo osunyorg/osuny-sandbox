@@ -2,6 +2,11 @@
 
 baseURL: https://sandbox-osuny.netlify.app/
 
+## OSUNY
+osuny:
+  website:
+    id: 23aaecc5-0264-46c8-a498-f465abf03b15
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: true
