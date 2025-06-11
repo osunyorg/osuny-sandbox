@@ -10,10 +10,6 @@ en:
   params:
     contact_details:
 
-  permalinks:
-    pages_categories: /:slug/
-    posts: /actualites/:year-:month-:day-:slug/
-    posts_categories: /actualites/:slug/
   taxonomies:
     administrator: administrators
     author: authors
@@ -39,10 +35,6 @@ fr:
   params:
     contact_details:
 
-  permalinks:
-    pages_categories: /:slug/
-    posts: /actualites/:year-:month-:day-:slug/
-    posts_categories: /actualites/:slug/
   taxonomies:
     administrator: administrators
     author: authors
